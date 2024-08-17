@@ -1,6 +1,10 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using TRABAJO.View.Home;
+using TRABAJO.View.producto;
+using TRABAJO.View.login;
+using TRABAJO.View.inicio;
 
 namespace TRABAJO
 {
@@ -10,9 +14,9 @@ namespace TRABAJO
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
-        }
 
+            MainPage = new VLPrincipal();
+        }
         protected override void OnStart()
         {
         }

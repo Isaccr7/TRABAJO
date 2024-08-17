@@ -3,6 +3,31 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TRABAJO.App">
     <Application.Resources>
+        <Color x:Key="PKColor">#7E9EFC</Color>
+        <Style  x:Key="btn-primary" TargetType="Button">
+            <Setter Property="BackgroundColor" 
+                    Value="{StaticResource PKColor}"/>
+            <Setter Property="Margin" Value="80,0"/>
+        </Style>
+        <Style x:Key="btn_green" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="#E6E6E6"/>
+            <Setter Property="BorderColor" Value="White" />
+            <Setter Property="TextColor" Value="Black"/>
+            <Setter Property="CornerRadius" Value="50"/>
+            <Setter Property="Margin" Value="120,0"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+        <Style x:Key="btn_input" TargetType="Entry">
+            <Setter Property="WidthRequest" Value="300"/>
+            <Setter Property="HeightRequest" Value="50"/>
+            <Setter Property="TextColor" Value="Black"/>
+          
+            <Setter Property="BackgroundColor" Value="White"/>
+            <Setter Property="PlaceholderColor" Value="Black"/>
+
+        </Style>
 
     </Application.Resources>
 </Application>

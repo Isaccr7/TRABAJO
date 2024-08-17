@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRABAJO.View.inicio.VIFooter">
+  <ContentView.Content>
+      <StackLayout>
+
+                <Label x:Name="lblResult" TextColor="Red" HorizontalOptions="Center"  Margin="10" Padding="10" FontSize="Small" FontAttributes="Bold" ></Label>
+            
+            <Frame  CornerRadius="10" BackgroundColor="Transparent">
+                <StackLayout>
+                    <Frame CornerRadius="10" BorderColor="Black" Padding="5" HasShadow="False">
+                        <Entry x:Name="dniEntry"  Placeholder="DNI" Keyboard="Text" MaxLength="8"
+                    Style="{StaticResource btn_input}"/>
+                    </Frame>
+
+                    <Frame CornerRadius="10" BorderColor="Black" Padding="5" HasShadow="False">
+                        <Entry x:Name="contraseñaEntry" Placeholder="CONTRASEÑA" IsPassword="true" Style="{StaticResource btn_input}"
+                     />
+                    </Frame>
+                    <Button Text="INICIAR SESSION" BackgroundColor="blue" TextColor="White" FontAttributes="Bold" CornerRadius="20" FontSize="Subtitle"  BorderColor="White" Margin="50" x:Name="btn_ing_user" Clicked="btn_ing_user_Clicked" />
+
+                    <Label Text="Olvide contraseña" HorizontalOptions="Center" TextColor="White" FontAttributes="Bold" />
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRABAJO.View.inicio.VIBody">
+  <ContentView.Content>
+      <StackLayout>
+            <!--<Frame Margin="80">
+                <Image Source="https://1.bp.blogspot.com/-K4p_is9W7EQ/UFoodMrLGTI/AAAAAAAAAAk/ucM2Asls9yk/s1600/aptitude_test.gif"></Image>
+            </Frame>-->
+      </StackLayout>
+  </ContentView.Content>
+</ContentView>

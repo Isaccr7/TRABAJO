@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRABAJO.View.Home.VHFooter">
+  <ContentView.Content>
+      <StackLayout>
+            <!--<Button Text="INICIAR SESION" Style="{StaticResource btn_green}" />
+            <Button Text="SULLCA" Style="{StaticResource btn_green}"/>-->
+            <Button x:Name="btn_iniciar_session" Clicked="btn_iniciar_session_Clicked" Text="CERRAR SESION" BackgroundColor="SkyBlue" TextColor="White" FontAttributes="Bold" CornerRadius="50" Margin="80,0"/>
+            <!--<Label Text="Olvide contraseña" HorizontalOptions="Center" TextColor="Blue" FontAttributes="Bold" />-->
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

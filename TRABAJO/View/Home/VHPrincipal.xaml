@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRABAJO.View.Home.VHPrincipal"
+             BackgroundImageSource="https://r-charts.com/es/miscelanea/procesamiento-imagenes-magick_files/figure-html/color-fondo-imagen-r.png"
+             xmlns:Home="clr-namespace:TRABAJO.View.Home"
+             >
+ 
+    <ContentPage.Content>
+        <StackLayout>
+            <Home:VHHeader VerticalOptions="StartAndExpand"/>
+            <Home:VHBody />
+            <Home:VHFooter/>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

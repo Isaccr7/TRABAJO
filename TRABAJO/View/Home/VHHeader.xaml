@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRABAJO.View.Home.VHHeader">
+  <ContentView.Content>
+      <StackLayout>
+                <Label Text="SENATI" HorizontalOptions="Center"  FontAttributes="Bold" FontSize="30" />
+                <Label Text="Bienvenido senatino a este seminario 2, este cuarto ciclo de ingenieria de software con inteligencia artificial" HorizontalOptions="Center" HorizontalTextAlignment="Center" Margin="10" VerticalOptions="StartAndExpand"/>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

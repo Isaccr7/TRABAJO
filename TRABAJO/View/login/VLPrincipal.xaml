@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRABAJO.View.login.VLPrincipal"
+             BackgroundImageSource="https://globosfloresyfiestas.com/wp-content/uploads/2021/06/graduacion.jpg"
+             xmlns:login="clr-namespace:TRABAJO.View.login"
+             >
+    <ContentPage.Content>
+        <StackLayout>
+            <login:VLHeader VerticalOptions="StartAndExpand"/>
+
+            <login:VLFooter/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

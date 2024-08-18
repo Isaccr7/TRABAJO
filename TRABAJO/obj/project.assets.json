@@ -541,23 +541,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\": {},
+    "C:\\Users\\Isaac\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ISACC_\\TRABAJO\\TRABAJO\\TRABAJO.csproj",
+      "projectUniqueName": "D:\\WORK\\TRABAJO\\TRABAJO\\TRABAJO.csproj",
       "projectName": "TRABAJO",
-      "projectPath": "D:\\ISACC_\\TRABAJO\\TRABAJO\\TRABAJO.csproj",
-      "packagesPath": "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\",
-      "outputPath": "D:\\ISACC_\\TRABAJO\\TRABAJO\\obj\\",
+      "projectPath": "D:\\WORK\\TRABAJO\\TRABAJO\\TRABAJO.csproj",
+      "packagesPath": "C:\\Users\\Isaac\\.nuget\\packages\\",
+      "outputPath": "D:\\WORK\\TRABAJO\\TRABAJO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ALUMNO-ETIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Isaac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

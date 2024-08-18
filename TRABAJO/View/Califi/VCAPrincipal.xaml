@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRABAJO.View.Califi.VCAPrincipal">
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Grid Margin="0 ,10 ,0,20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="{Binding Estudiante.Foto}"
+                     Style="{StaticResource img-user}" />
+                <Label Text="{Binding Estudiante.Nombre}"
+                       FontSize="Medium"
+                       VerticalOptions="Center"
+                       Grid.Column="1"/>
+                <Button Text="back"
+                        Command="{Binding BackCommand}"
+                        HorizontalOptions="End"
+                        VerticalOptions="Center"
+                        Grid.Column="2"/>
+            </Grid>
+            <Frame Padding="10"
+       BackgroundColor="#BBDEFB"
+       CornerRadius="10"
+       Margin="0,0,0,20">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="NOTA FINAL"
+               FontSize="Medium"
+               FontAttributes="Bold"
+               VerticalOptions="Center"/>
+
+                    <Label Text="--/20"
+               FontSize="Medium"
+               BackgroundColor="#424242"
+               TextColor="White"
+               HorizontalOptions="End"
+               VerticalOptions="Center"
+               Padding="10,0"
+               Grid.Column="1"/>
+                </Grid>
+            </Frame>
+            <Frame Padding="10"
+       BackgroundColor="#BBDEFB"
+       CornerRadius="10">
+                <StackLayout>
+                   
+                    <Grid Margin="0,0,0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Source="https://cdn.icon-icons.com/icons2/1918/PNG/512/iconfinder-document03-1622833_121957.png"
+                  Style="{StaticResource icon-nota}"/>
+
+                        <Label Text="TAREA 1"
+                   FontSize="Medium"
+                   VerticalOptions="Center"
+                   Grid.Column="1"/>
+
+                        <Label Text="--/20"
+                   Style="{StaticResource lblNota}"/>
+                    </Grid>
+
+                    
+                    <Grid Margin="0,0,0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Source="https://cdn.icon-icons.com/icons2/1918/PNG/512/iconfinder-document03-1622833_121957.png"
+                  Style="{StaticResource icon-nota}"/>
+
+                        <Label Text="TAREA 2"
+                   FontSize="Medium"
+                   VerticalOptions="Center"
+                   Grid.Column="1"/>
+
+                        <Label Text="--/20"
+                   Style="{StaticResource lblNota}"/>
+                    </Grid>
+
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Source="https://cdn.icon-icons.com/icons2/1918/PNG/512/iconfinder-document03-1622833_121957.png"
+                  Style="{StaticResource icon-nota}"/>
+
+                        <Label Text="EXAMEN FINAL"
+                   FontSize="Medium"
+                   VerticalOptions="Center"
+                   Grid.Column="1"/>
+
+                        <Label Text="--/20"
+                   Style="{StaticResource lblNota}"/>
+                    </Grid>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using TRABAJO.View.Home;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-
+using TRABAJO.View.CursosI;
 namespace TRABAJO.View.inicio
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -27,7 +27,7 @@ namespace TRABAJO.View.inicio
 
             if (user == usuario_inge && pass == passs_inge) {
 
-                await Navigation.PushModalAsync(new VHPrincipal());
+                await Navigation.PushModalAsync(new VCPrincipal());
             }
             
             else

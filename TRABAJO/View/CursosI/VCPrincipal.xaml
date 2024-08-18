@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRABAJO.View.CursosI.VCPrincipal"
+             xmlns:search="clr-namespace:TRABAJO.View">
+    <ContentPage.Content>
+        
+        
+        <ScrollView>
+            <StackLayout Spacing="0">
+                <search:Serach/>
+
+                <Grid Padding="15" ColumnSpacing="10" RowSpacing="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Frame x:Name="MatematicaFrame" Grid.Row="0" Grid.Column="0" CornerRadius="10" BackgroundColor="#2196f3" Padding="0">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout>
+                            <Image Source="https://www.tuproyectodevida.pe/wp-content/uploads/2020/06/%C2%BFC%C3%B3mo-ser-bueno-para-las-Matem%C3%A1ticas.jpg" Aspect="AspectFill" HeightRequest="120"/>
+                            <StackLayout Padding="5" BackgroundColor="#2196f3">
+                                <Label Text="AULA: 123-ABC-321" Style="{StaticResource lblsubtitle}"/>
+                                <Label Text="CURSO: MATEMÁTICA" Style="{StaticResource lblsubtitle}"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame x:Name="ComunicacionFrame" Grid.Row="0" Grid.Column="1" CornerRadius="10" BackgroundColor="#f44336" Padding="0">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout>
+                            <Image Source="https://www.reasonwhy.es/media/cache/destacada/curso-tag-ctrl-rrpp.jpg" Aspect="AspectFill" HeightRequest="120"/>
+                            <StackLayout Padding="5" BackgroundColor="#f44336">
+                                <Label Text="AULA: 123-ABC-321" Style="{StaticResource lblsubtitle}"/>
+                                <Label Text="CURSO: COMUNICACIÓN" Style="{StaticResource lblsubtitle}"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame x:Name="CytFrame" Grid.Row="1" Grid.Column="0" CornerRadius="10" BackgroundColor="#9c27b0" Padding="0">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout>
+                            <Image Source="https://files.pucp.education/puntoedu/wp-content/uploads/2022/05/13114548/06-pucp-abre-ministerio-de-ciencia_mesa-de-trabajo-1.png" Aspect="AspectFill" HeightRequest="120"/>
+                            <StackLayout Padding="5" BackgroundColor="#9c27b0">
+                                <Label Text="AULA: 123-ABC-321" Style="{StaticResource lblsubtitle}"/>
+                                <Label Text="CURSO: CIENCIA Y TÉCNOLOGIA" Style="{StaticResource lblsubtitle}"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame x:Name="EptFrame" Grid.Row="1" Grid.Column="1" CornerRadius="10" BackgroundColor="#673ab7" Padding="0">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout>
+                            <Image Source="https://img.freepik.com/vector-premium/estudio-linea-educacion-trabajo-domicilio-concepto-abstracto-dibujo-arte-linea-escritorio-oficina_133260-3736.jpg" Aspect="AspectFill" HeightRequest="120"/>
+                            <StackLayout Padding="5" BackgroundColor="#673ab7">
+                                <Label Text="AULA: 123-ABC-321" Style="{StaticResource lblsubtitle}"/>
+                                <Label Text="CURSO: EDUCACIÓN PARA EL TRABAJO" Style="{StaticResource lblsubtitle}"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame x:Name="InglesFrame" Grid.Row="2" Grid.Column="0" CornerRadius="10" BackgroundColor="#8dc8ab" Padding="0">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout>
+                            <Image Source="https://clubpreparatoriano.com/images/english.jpg" Aspect="AspectFill" HeightRequest="120"/>
+                            <StackLayout Padding="5" BackgroundColor="#8dc8ab">
+                                <Label Text="AULA: 123-ABC-321" Style="{StaticResource lblsubtitle}"/>
+                                <Label Text="CURSO: INGLES" Style="{StaticResource lblsubtitle}"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame x:Name="ArteFrame" Grid.Row="2" Grid.Column="1" CornerRadius="10" BackgroundColor="#309c96" Padding="0">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout>
+                            <Image Source="https://45segundos.com/wp-content/uploads/2019/08/logo-blog.png" Aspect="AspectFill" HeightRequest="120" />
+                            <StackLayout Padding="5" BackgroundColor="#309c96">
+                                <Label Text="AULA: 123-ABC-321" Style="{StaticResource lblsubtitle}"/>
+                                <Label Text="CURSO: ARTE Y CULTURA" Style="{StaticResource lblsubtitle}"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame x:Name="ArsFrame" Grid.Row="3" Grid.Column="0" CornerRadius="10" BackgroundColor="#d7b71b" Padding="0">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout>
+                            <Image Source="https://45segundos.com/wp-content/uploads/2019/08/logo-blog.png" Aspect="AspectFill" HeightRequest="120"/>
+                            <StackLayout Padding="5" BackgroundColor="#d7b71b">
+                                <Label Text="AULA: 123-ABC-321" Style="{StaticResource lblsubtitle}"/>
+                                <Label Text="CURSO: ARTE Y CULTURA" Style="{StaticResource lblsubtitle}"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame x:Name="AreesFrame" Grid.Row="3" Grid.Column="1" CornerRadius="10" BackgroundColor="#758a00" Padding="0">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout>
+                            <Image Source="https://45segundos.com/wp-content/uploads/2019/08/logo-blog.png" Aspect="AspectFill" HeightRequest="120"/>
+                            <StackLayout Padding="5" BackgroundColor="#758a00">
+                                <Label Text="AULA: 123-ABC-321" Style="{StaticResource lblsubtitle}"/>
+                                <Label Text="CURSO: ARTE Y CULTURA" Style="{StaticResource lblsubtitle}"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

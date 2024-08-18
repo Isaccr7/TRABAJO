@@ -1,74 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ISACC_\\TRABAJO\\",
+  "WorkspaceRootPath": "D:\\WORK\\TRABAJO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\inicio\\vifooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\inicio\\vifooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\inicio\\vifooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\work\\trabajo\\trabajo\\view\\inicio\\vifooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\inicio\\vifooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\login\\vlprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\login\\vlprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\work\\trabajo\\trabajo\\view\\inicio\\vifooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\inicio\\vifooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\login\\vlfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\login\\vlfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\work\\trabajo\\trabajo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\home\\vhfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\home\\vhfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\work\\trabajo\\trabajo\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\home\\vhfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\home\\vhfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\work\\trabajo\\trabajo\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\home\\vhbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\home\\vhbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\home\\vhprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\home\\vhprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\inicio\\vibody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\inicio\\vibody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\login\\vlfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\login\\vlfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\inicio\\viprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\inicio\\viprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\inicio\\viheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\inicio\\viheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\login\\vlprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\login\\vlprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\login\\vlbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\login\\vlbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\isacc_\\trabajo\\trabajo\\view\\login\\vlheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\view\\login\\vlheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|d:\\work\\trabajo\\trabajo\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{4215B13C-91F2-4FA2-B0D7-0359D35B5894}|TRABAJO\\TRABAJO.csproj|solutionrelative:trabajo\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,253 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 334,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VHFooter.xaml.cs",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\Home\\VHFooter.xaml.cs",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\Home\\VHFooter.xaml.cs",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\Home\\VHFooter.xaml.cs",
-              "RelativeToolTip": "TRABAJO\\View\\Home\\VHFooter.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T18:43:09.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VLFooter.xaml.cs",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLFooter.xaml.cs",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\login\\VLFooter.xaml.cs",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLFooter.xaml.cs",
-              "RelativeToolTip": "TRABAJO\\View\\login\\VLFooter.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T18:37:35.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VLPrincipal.xaml.cs",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLPrincipal.xaml.cs",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\login\\VLPrincipal.xaml.cs",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLPrincipal.xaml.cs",
-              "RelativeToolTip": "TRABAJO\\View\\login\\VLPrincipal.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T18:37:31.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VIFooter.xaml.cs",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\inicio\\VIFooter.xaml.cs",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\inicio\\VIFooter.xaml.cs",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\inicio\\VIFooter.xaml.cs",
-              "RelativeToolTip": "TRABAJO\\View\\inicio\\VIFooter.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAUwCkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T18:09:10.096Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VIFooter.xaml.cs",
+              "DocumentMoniker": "D:\\WORK\\TRABAJO\\TRABAJO\\View\\inicio\\VIFooter.xaml.cs",
+              "RelativeDocumentMoniker": "TRABAJO\\View\\inicio\\VIFooter.xaml.cs",
+              "ToolTip": "D:\\WORK\\TRABAJO\\TRABAJO\\View\\inicio\\VIFooter.xaml.cs",
+              "RelativeToolTip": "TRABAJO\\View\\inicio\\VIFooter.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T04:15:39.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "VIFooter.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\inicio\\VIFooter.xaml",
+              "DocumentMoniker": "D:\\WORK\\TRABAJO\\TRABAJO\\View\\inicio\\VIFooter.xaml",
               "RelativeDocumentMoniker": "TRABAJO\\View\\inicio\\VIFooter.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\inicio\\VIFooter.xaml",
+              "ToolTip": "D:\\WORK\\TRABAJO\\TRABAJO\\View\\inicio\\VIFooter.xaml",
               "RelativeToolTip": "TRABAJO\\View\\inicio\\VIFooter.xaml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T17:43:06.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VHFooter.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\Home\\VHFooter.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\Home\\VHFooter.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\Home\\VHFooter.xaml",
-              "RelativeToolTip": "TRABAJO\\View\\Home\\VHFooter.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T18:43:48.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VHBody.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\Home\\VHBody.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\Home\\VHBody.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\Home\\VHBody.xaml",
-              "RelativeToolTip": "TRABAJO\\View\\Home\\VHBody.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T18:46:50.265Z",
+              "WhenOpened": "2024-08-18T04:15:35.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\App.xaml.cs",
+              "DocumentMoniker": "D:\\WORK\\TRABAJO\\TRABAJO\\App.xaml.cs",
               "RelativeDocumentMoniker": "TRABAJO\\App.xaml.cs",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\App.xaml.cs",
+              "ToolTip": "D:\\WORK\\TRABAJO\\TRABAJO\\App.xaml.cs",
               "RelativeToolTip": "TRABAJO\\App.xaml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T17:49:29.022Z",
+              "WhenOpened": "2024-08-18T04:08:57.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "VIBody.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\inicio\\VIBody.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\inicio\\VIBody.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\inicio\\VIBody.xaml",
-              "RelativeToolTip": "TRABAJO\\View\\inicio\\VIBody.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\WORK\\TRABAJO\\TRABAJO\\App.xaml",
+              "RelativeDocumentMoniker": "TRABAJO\\App.xaml",
+              "ToolTip": "D:\\WORK\\TRABAJO\\TRABAJO\\App.xaml",
+              "RelativeToolTip": "TRABAJO\\App.xaml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAawDcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T17:43:38.93Z",
+              "WhenOpened": "2024-08-18T04:08:01.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "VIHeader.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\inicio\\VIHeader.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\inicio\\VIHeader.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\inicio\\VIHeader.xaml",
-              "RelativeToolTip": "TRABAJO\\View\\inicio\\VIHeader.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T17:43:21.852Z",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\WORK\\TRABAJO\\TRABAJO\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TRABAJO\\MainPage.xaml.cs",
+              "ToolTip": "D:\\WORK\\TRABAJO\\TRABAJO\\MainPage.xaml.cs",
+              "RelativeToolTip": "TRABAJO\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T04:07:55.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "VIPrincipal.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\inicio\\VIPrincipal.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\inicio\\VIPrincipal.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\inicio\\VIPrincipal.xaml",
-              "RelativeToolTip": "TRABAJO\\View\\inicio\\VIPrincipal.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T17:42:49.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VHPrincipal.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\Home\\VHPrincipal.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\Home\\VHPrincipal.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\Home\\VHPrincipal.xaml",
-              "RelativeToolTip": "TRABAJO\\View\\Home\\VHPrincipal.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T17:33:23.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "VLBody.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLBody.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\login\\VLBody.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLBody.xaml",
-              "RelativeToolTip": "TRABAJO\\View\\login\\VLBody.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T17:25:05.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "VLPrincipal.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLPrincipal.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\login\\VLPrincipal.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLPrincipal.xaml",
-              "RelativeToolTip": "TRABAJO\\View\\login\\VLPrincipal.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T17:24:23.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VLFooter.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLFooter.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\login\\VLFooter.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLFooter.xaml",
-              "RelativeToolTip": "TRABAJO\\View\\login\\VLFooter.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T17:24:40.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "VLHeader.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLHeader.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\View\\login\\VLHeader.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\View\\login\\VLHeader.xaml",
-              "RelativeToolTip": "TRABAJO\\View\\login\\VLHeader.xaml",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\WORK\\TRABAJO\\TRABAJO\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TRABAJO\\MainPage.xaml",
+              "ToolTip": "D:\\WORK\\TRABAJO\\TRABAJO\\MainPage.xaml",
+              "RelativeToolTip": "TRABAJO\\MainPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T17:23:22.268Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 66,
-          "SelectedChildIndex": -1,
-          "Children": []
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "503e34ab-ef4c-450a-9d30-90df78871d5b",
-        "Display": 0,
-        "X": 671,
-        "Y": 127,
-        "Width": 329,
-        "Height": 766,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\ISACC_\\TRABAJO\\TRABAJO\\App.xaml",
-              "RelativeDocumentMoniker": "TRABAJO\\App.xaml",
-              "ToolTip": "D:\\ISACC_\\TRABAJO\\TRABAJO\\App.xaml",
-              "RelativeToolTip": "TRABAJO\\App.xaml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-17T17:37:38.413Z",
+              "WhenOpened": "2024-08-18T04:07:34.119Z",
               "EditorCaption": ""
             }
           ]
